@@ -1,6 +1,6 @@
 # Welcome! 👋
 
-I am Abdulwalغ Samثr Ali Mayad, a mobile app developer specializing in Flutter. I love building apps that help users and make their lives easier.
+I am Abdulwaly Samer Ali Mayad, a mobile app developer specializing in Flutter. I love building apps that help users and make their lives easier.
 
 
  🔧 Technical Skills
@@ -23,6 +23,6 @@ I am Abdulwalغ Samثr Ali Mayad, a mobile app developer specializing in Flutter
 
 💡 Favorite Quote
 
-> "Be the change that you wish to see in the world." – Mahatma Gandhi
+"Be the change that you wish to see in the world." – Mahatma Gandhi
 
 Thanks for stopping by!
