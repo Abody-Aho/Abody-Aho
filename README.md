@@ -13,7 +13,7 @@ I am Abdulwaly Samer Ali Mayad, a mobile app developer specializing in Flutter. 
 
 🚀 Selected Projects
 
-* [Adhkar Al-Muslim](https://github.com/Abody-Aho/moselem) – A morning and evening adhkar app with an electronic tasbih
+* [Adhkar Al-Muslim](https://github.com/Abody-Aho/Moslem_App) – A morning and evening adhkar app with an electronic tasbih
 * [FindIt](https://github.com/Abody-Aho/findit-app) – An app for searching products in nearby supermarkets
 
 📫 Contact Me
