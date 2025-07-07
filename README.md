@@ -36,7 +36,6 @@
 ![WakaTime Badge](https://wakatime.com/badge/user/b9e2caa8-adfc-42ce-a92b-6fb2327274ef.svg)
 
 
-
 ## 📌 Featured Project
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abody-Aho&repo=Moslem_App)](https://github.com/Abody-Aho/Moslem_App)
