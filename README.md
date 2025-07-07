@@ -24,6 +24,10 @@
 
 * Email: [abdalwalysamer6@gmail.com](mailto:abdalwalysamer6@gmail.com)
 * [LinkedIn](https://linkedin.com/in/yourprofile)
+* 
+## ⏱️ My Coding Activity
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Abody&theme=radical)
 
 ## 📊 GitHub Stats
 
