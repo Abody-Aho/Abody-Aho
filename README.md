@@ -3,7 +3,7 @@
 <p align="center">
   💙 Passionate about building mobile apps using <strong>Flutter</strong><br>
   🔥 Currently working on apps with Firebase and GetX<br>
-  📫 Reach me at: <strong>abdalwaly@gmail.com</strong>
+  📫 Reach me at: <strong>abdalwalysamer6@gmail.com</strong>
 </p>
 
 ## 💼 Tech Stack
