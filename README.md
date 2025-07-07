@@ -1,15 +1,19 @@
-# Welcome! 👋
+<h1 align="center">👋 Hi, I'm Abdulwali - Flutter Developer</h1>
 
-I am Abdulwaly Samer Ali Mayad, a mobile app developer specializing in Flutter. I love building apps that help users and make their lives easier.
+<p align="center">
+  💙 Passionate about building mobile apps using <strong>Flutter</strong><br>
+  🔥 Currently working on apps with Firebase and GetX<br>
+  📫 Reach me at: <strong>abdalwaly@gmail.com</strong>
+</p>
 
+## 💼 Tech Stack
 
- 🔧 Technical Skills
+- 🎯 Flutter / Dart  
+- 🔥 Firebase (Auth - Firestore - Storage)  
+- 📱 GetX / Riverpod / Provider  
+- 🎨 UI/UX Design  
+- 🌐 REST APIs - JSON  
 
-* Flutter & Dart
-* Firebase (Firestore, Authentication)
-* Git & GitHub
-* REST APIs
-* UI/UX Design
 
 🚀 Selected Projects
 
@@ -21,8 +25,23 @@ I am Abdulwaly Samer Ali Mayad, a mobile app developer specializing in Flutter. 
 * Email: [abdalwalysamer6@gmail.com](mailto:abdalwalysamer6@gmail.com)
 * [LinkedIn](https://linkedin.com/in/yourprofile)
 
-💡 Favorite Quote
+## 📊 GitHub Stats
 
-"Be the change that you wish to see in the world." – Mahatma Gandhi
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abody-Aho&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abody-Aho&layout=compact&theme=radical)
 
-Thanks for stopping by!
+
+## ⏱️ My Coding Activity (WakaTime)
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Abody&theme=radical)
+
+
+## 📌 Featured Project
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abody-Aho&repo=Moslem_App)](https://github.com/Abody-Aho/Moslem_App)
+
+
+## 💡 About Me
+
+I strive to build high-quality, meaningful mobile apps that help people.  
+I love learning, sharing knowledge, and collaborating with other developers. 🚀
