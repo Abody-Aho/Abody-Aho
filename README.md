@@ -33,7 +33,7 @@
 
 ## ⏱️ My Coding Activity (WakaTime)
 
-![WakaTime Badge](https://wakatime.com/badge/user/b9e2caa8-adfc-42ce-a92b-6fb2327274ef.svg)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Abody&theme=radical)
 
 
 ## 📌 Featured Project
