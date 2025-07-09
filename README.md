@@ -25,17 +25,15 @@
 * Email: [abdalwalysamer6@gmail.com](mailto:abdalwalysamer6@gmail.com)
 * [LinkedIn](https://linkedin.com/in/yourprofile)
   
+## ⏱️ My Coding Activity (WakaTime)
+
+![WakaTime Badge](https://wakatime.com/badge/user/b9e2caa8-adfc-42ce-a92b-6fb2327274ef.svg)
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abody-Aho&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/wakatime?username=Abody&theme=radical&v=2)
 
-
-## ⏱️ My Coding Activity (WakaTime)
-
-![WakaTime Badge](https://wakatime.com/badge/user/b9e2caa8-adfc-42ce-a92b-6fb2327274ef.svg)
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Abody&theme=radical)
 
 ## 📌 Featured Project
 
