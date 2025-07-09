@@ -28,7 +28,7 @@
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abody-Aho&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abody-Aho&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/wakatime?username=Abody&theme=radical&v=2)
 
 
 ## ⏱️ My Coding Activity (WakaTime)
