@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Abdulwali - Flutter Developer</h1>
+<h1 align="center">👋 Hi, I'm Abdalwaly - Flutter Developer</h1>
 
 <p align="center">
   💙 Passionate about building mobile apps using <strong>Flutter</strong><br>
