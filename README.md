@@ -23,7 +23,7 @@
 📫 Contact Me
 
 * Email: [abdalwalysamer6@gmail.com](mailto:abdalwalysamer6@gmail.com)
-* [LinkedIn](https://linkedin.com/in/yourprofile)
+* [LinkedIn](https://www.linkedin.com/in/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%88%D9%84%D9%8A-%D8%B3%D9%85%D9%8A%D8%B1-%D8%B9%D9%84%D9%8A-%D9%85%D8%B9%D9%8A%D8%A7%D8%AF-111a42258/?trk=opento_sprofile_details)
   
 ## ⏱️ My Coding Activity (WakaTime)
 
