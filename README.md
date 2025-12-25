@@ -48,7 +48,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abody-Aho&repo=Moslem_App&theme=radical)](https://github.com/Abody-Aho/Moslem_App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abody-Aho&repo=Dashboad&theme=radical)](https://github.com/Abody-Aho/Dashboad)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abody-Aho&repo=Quiz_App&theme=radical)](https://github.com/Abody-Aho/Quiz-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abody-Aho&repo=Quiz-App&theme=radical)](https://github.com/Abody-Aho/Quiz-App)
 
 
 ---
