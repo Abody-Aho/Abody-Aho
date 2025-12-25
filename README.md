@@ -46,9 +46,17 @@
 
 ### 🌟 Featured Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abody-Aho&repo=Quiz-App&theme=radical)](https://github.com/Abody-Aho/Quiz-App)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abody-Aho&repo=Moslem_App&theme=radical)](https://github.com/Abody-Aho/Moslem_App)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abody-Aho&repo=Dashboad&theme=radical)](https://github.com/Abody-Aho/Dashboad)
+<p align="center">
+  <a href="https://github.com/Abody-Aho/Quiz-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abody-Aho&repo=Quiz-App&theme=radical" />
+  </a>
+  <a href="https://github.com/Abody-Aho/Moslem_App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abody-Aho&repo=Moslem_App&theme=radical" />
+  </a>
+  <a href="https://github.com/Abody-Aho/Dashboad">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abody-Aho&repo=Dashboad&theme=radical" />
+  </a>
+</p>
 
 ---
 
