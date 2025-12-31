@@ -1,34 +1,77 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#00C897;">Abdalwaly</span> 🇾🇪</h1>
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#00C897;">Abdalwaly Samer</span> 🇾🇪
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00C897&center=true&vCenter=true&width=500&lines=💙+Flutter+Developer;🔥+Firebase+%26+GetX+Enthusiast;🎯+Building+Smart+and+Useful+Apps" alt="Typing SVG" />
+  <strong>Flutter Developer • IT Student • App Builder</strong>
+</p>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C897&center=true&vCenter=true&width=600&lines=Flutter+Developer;Firebase+%26+State+Management+Expert;Building+Smart+%26+Scalable+Mobile+Apps"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abody-Aho&label=Profile%20Views&color=00C897&style=flat" />
 </p>
 
 ---
 
-### 💼 Tech Stack
+## 🧑‍💻 About Me
+
+> *Turning ideas into real-world mobile applications.*
+
+- 🎓 **4th-year IT student**
+- 📱 Specialized in **Flutter & Dart**
+- 🚀 Currently building **smart supermarket delivery apps** with live tracking
+- 🔥 Passionate about clean architecture & performance
+- 📚 Constant learner & problem solver
+
+---
+
+## 💼 Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,git,github,figma,vscode&theme=dark" />
 </p>
 
-- 🧠 **Flutter / Dart**  
-- ☁️ **Firebase (Auth – Firestore – Storage)**  
-- ⚙️ **State Management:** GetX / Riverpod / Provider  
-- 🎨 **UI/UX Design**  
-- 🌐 **REST APIs – JSON Integration**
+- **Mobile:** Flutter, Dart  
+- **Backend:** Firebase (Auth, Firestore, Storage)  
+- **State Management:** GetX, Riverpod, Provider  
+- **Design:** UI/UX, Figma  
+- **Integration:** REST APIs, JSON  
 
 ---
 
-### 🚀 Selected Projects
+## 🚀 Featured Projects
 
 | Project | Description |
-|----------|--------------|
-| [🕋 Adhkar Al-Muslim](https://github.com/Abody-Aho/Moslem_App) | Morning & Evening Adhkar app with smart tasbih counter |
-| [🛒 FindIt](https://github.com/Abody-Aho/findit-app) | Find and compare products from nearby supermarkets |
+|-------|-------------|
+| 🕋 **Adhkar Al-Muslim** | Morning & Evening adhkar app with smart Tasbih counter |
+| 🛒 **FindIt** | Discover & compare products from nearby supermarkets |
+| 🧠 **Quiz App (AI-powered)** | Smart quiz generation using AI |
 
 ---
 
-### 🧑‍💻 GitHub Stats
+## 🌟 Highlighted Repositories
+
+<p align="center">
+  <a href="https://github.com/Abody-Aho/Quiz-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abody-Aho&repo=Quiz-App&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/Abody-Aho/Moslem_App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abody-Aho&repo=Moslem_App&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/Abody-Aho/Dashboad">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abody-Aho&repo=Dashboad&theme=radical&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abody-Aho&show_icons=true&theme=radical&hide_border=true" height="165"/>
@@ -37,37 +80,26 @@
 
 ---
 
-### ⏱️ Coding Activity (WakaTime)
+## ⏱️ Coding Activity (WakaTime)
+
 <p align="center">
-  <img src="https://wakatime.com/badge/user/b9e2caa8-adfc-42ce-a92b-6fb2327274ef.svg" alt="WakaTime Badge"/>
+  <img src="https://wakatime.com/badge/user/b9e2caa8-adfc-42ce-a92b-6fb2327274ef.svg" />
 </p>
 
 ---
 
-### 🌟 Featured Project
+## 📫 Contact Me
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abody-Aho&repo=Quiz-App&theme=radical)](https://github.com/Abody-Aho/Quiz-App)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abody-Aho&repo=Moslem_App&theme=radical)](https://github.com/Abody-Aho/Moslem_App)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abody-Aho&repo=Dashboad&theme=radical)](https://github.com/Abody-Aho/Dashboad)
-
----
-
-### 💡 About Me
-
-> “I love turning ideas into mobile apps that make life easier.”  
-
-- 👨‍💻 I'm a **4th-year IT student** passionate about Flutter  
-- 🚀 Currently working on **supermarket delivery apps** with live tracking  
-- 📚 Always learning and sharing knowledge  
-- 💬 Ask me about Flutter, Firebase, and GetX  
-- 📫 Reach me at **[abdalwalysamer6@gmail.com](mailto:abdalwalysamer6@gmail.com)**  
-- 🌍 [LinkedIn Profile](https://www.linkedin.com/in/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%88%D9%84%D9%8A-%D8%B3%D9%85%D9%8A%D8%B1-%D8%B9%D9%84%D9%8A-%D9%85%D8%B9%D9%8A%D8%A7%D8%AF-111a42258/)
+- 📧 Email: **abdalwalysamer6@gmail.com**
+- 💼 LinkedIn:  
+  👉 [View Profile](https://www.linkedin.com/in/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%88%D9%84%D9%8A-%D8%B3%D9%85%D9%8A%D8%B1-%D8%B9%D9%84%D9%8A-%D9%85%D8%B9%D9%8A%D8%A7%D8%AF-111a42258/)
 
 ---
 
-### 🧩 Fun Fact
-> Flutter isn’t just a framework — it’s an art tool for creative developers 🎨
+## 🧩 Fun Fact
+
+> Flutter isn’t just a framework — it’s a **creative tool** for developers 🎨
 
 ---
 
-⭐ **If you like my work, don’t forget to give a star to my repositories!**
+⭐ **If you like my work, feel free to star my repositories and follow me!**
