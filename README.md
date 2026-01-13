@@ -1,14 +1,12 @@
-<h1 align="center">
-  👋 Hi, I'm <span style="color:#00C897;">Abdalwaly Samer</span> 🇾🇪
-</h1>
+# 👋 Hi, I'm Abdalwaly Samer 🇾🇪
 
-<p align="center">
-  <strong>Flutter Developer • IT Student • App Builder</strong>
-</p>
+<h3 align="center">
+Flutter Developer • IT Student • App Builder
+</h3>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C897&center=true&vCenter=true&width=600&lines=Flutter+Developer;Firebase+%26+State+Management+Expert;Building+Smart+%26+Scalable+Mobile+Apps"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C897&center=true&vCenter=true&width=650&lines=Flutter+Developer;Firebase+%26+State+Management+Expert;Building+Smart+%26+Scalable+Mobile+Apps"
     alt="Typing SVG"
   />
 </p>
@@ -21,12 +19,12 @@
 
 ## 🧑‍💻 About Me
 
-> *Turning ideas into real-world mobile applications.*
+> Turning ideas into real-world mobile applications.
 
-- 🎓 **4th-year IT student**
+- 🎓 4th-year **IT Student**
 - 📱 Specialized in **Flutter & Dart**
-- 🚀 Currently building **smart supermarket delivery apps** with live tracking
-- 🔥 Passionate about clean architecture & performance
+- 🚀 Building **smart supermarket delivery apps** with live tracking
+- 🔥 Passionate about **clean architecture & performance**
 - 📚 Constant learner & problem solver
 
 ---
@@ -34,7 +32,7 @@
 ## 💼 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,git,github,figma,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,git,github,figma,vscode&theme=dark&perline=8" />
 </p>
 
 - **Mobile:** Flutter, Dart  
@@ -59,13 +57,13 @@
 
 <p align="center">
   <a href="https://github.com/Abody-Aho/Quiz-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abody-Aho&repo=Quiz-App&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Abody-Aho&repo=Quiz-App&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/Abody-Aho/Moslem_App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abody-Aho&repo=Moslem_App&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Abody-Aho&repo=Moslem_App&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/Abody-Aho/Dashboad">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abody-Aho&repo=Dashboad&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Abody-Aho&repo=Dashboad&theme=radical&hide_border=true" />
   </a>
 </p>
 
@@ -74,8 +72,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abody-Aho&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abody-Aho&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abody-Aho&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Abody-Aho&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -102,4 +100,4 @@
 
 ---
 
-⭐ **If you like my work, feel free to star my repositories and follow me!**
+⭐ If you like my work, feel free to **star my repositories** and **follow me**
