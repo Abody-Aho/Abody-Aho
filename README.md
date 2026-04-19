@@ -69,19 +69,11 @@ Flutter Developer • IT Student • App Builder
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Statistics & Performance
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abody-Aho&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Abody-Aho&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
-
----
-
-## ⏱️ Coding Activity (WakaTime)
-
-<p align="center">
-  <img src="https://wakatime.com/badge/user/b9e2caa8-adfc-42ce-a92b-6fb2327274ef.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abody-Aho&show_icons=true&theme=radical" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abody-Aho&layout=compact&theme=radical" height="180">
 </p>
 
 ---
