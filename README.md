@@ -53,21 +53,6 @@ Flutter Developer • IT Student • App Builder
 
 ---
 
-## 🌟 Highlighted Repositories
-
-<p align="center">
-  <a href="https://github.com/Abody-Aho/Quiz-App">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Abody-Aho&repo=Quiz-App&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/Abody-Aho/Moslem_App">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Abody-Aho&repo=Moslem_App&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/Abody-Aho/Dashboad">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Abody-Aho&repo=Dashboad&theme=radical&hide_border=true" />
-  </a>
-</p>
-
----
 
 ## 📈 Statistics & Performance
 
