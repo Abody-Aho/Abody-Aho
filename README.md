@@ -59,6 +59,7 @@ Flutter Developer • IT Student • App Builder
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abody-Aho&show_icons=true&theme=radical" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abody-Aho&layout=compact&theme=radical" height="180">
+  <img src="https://wakatime.com/badge/user/b9e2caa8-adfc-42ce-a92b-6fb2327274ef.svg" height="180">
 </p>
 
 ---
