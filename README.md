@@ -1,6 +1,6 @@
 <div align="center">
 
-# Abdalwaly Samer Ali Mayad (Jimmy)
+# Abdalwaly Samer Ali Mayad
 ### *Software Architect | AI Solutions Developer | Founder of Alpha One*
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00C897&center=true&vCenter=true&width=800&lines=Building+Enterprise+Scale+AI+Solutions;Full-Stack+Architect+(.NET,+Laravel,+Node.js);Expert+in+Business+Automation+&+Workflows;Founder+&+Lead+at+Alpha+One" alt="Typing SVG" />
@@ -45,17 +45,6 @@ I bridge the gap between frontend fluidity and backend robustness, with a heavy 
 
 ---
 
-## 🏗 Featured Enterprise Projects
-
-| Project | Domain | Key Tech |
-| :--- | :--- | :--- |
-| **Smart Supermarket** | Multi-Role Ecosystem | Flutter, Firebase, Backend |
-| **AI Business Assistant** | Workflow Automation | OpenAI API, Node.js, n8n |
-| **Voice AI Agent** | Voice Interface | Flutter, AI APIs, Speech-to-Text |
-| **FindIt** | Discovery & Comparison | Flutter, Algorithmic Search |
-
----
-
 ## 📈 Engineering Analytics
 
 <p align="center">
@@ -67,6 +56,23 @@ I bridge the gap between frontend fluidity and backend robustness, with a heavy 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Abody-Aho&theme=tokyonight&hide_border=true" width="48%">
   <img src="https://github-profile-trophy.vercel.app/?username=Abody-Aho&theme=tokyonight&no-bg=true" width="48%">
 </p>
+
+<div align="center">
+  <a href="https://wakatime.com/@Abody-Aho">
+    <img src="https://wakatime.com/badge/user/b9e2caa8-adfc-42ce-a92b-6fb2327274ef.svg" alt="Wakatime Stats" />
+  </a>
+</div>
+
+---
+
+## 🏗 Featured Enterprise Projects
+
+| Project | Domain | Key Tech |
+| :--- | :--- | :--- |
+| **Smart Supermarket** | Multi-Role Ecosystem | Flutter, Firebase, Backend |
+| **AI Business Assistant** | Workflow Automation | OpenAI API, Node.js, n8n |
+| **Voice AI Agent** | Voice Interface | Flutter, AI APIs, Speech-to-Text |
+| **FindIt** | Discovery & Comparison | Flutter, Algorithmic Search |
 
 ---
 
