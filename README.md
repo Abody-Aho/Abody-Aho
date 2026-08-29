@@ -1,38 +1,32 @@
 <div align="center">
 
-<!-- ====================================================== -->
-<!-- HEADER                                                  -->
-<!-- ====================================================== -->
+# 👨‍💻 Abdalwaly Samer
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:00C897,50:00A6FB,100:7F5AF0&height=260&section=header&text=Abdalwaly%20Samer&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20SaaS%20Builder%20%7C%20Founder%20of%20Alpha%20One&descAlignY=57&descAlign=50&descSize=18"
-  width="100%"
-/>
-
-<a href="https://readme-typing-svg.demolab.com/">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=1000&color=00C897&center=true&vCenter=true&width=850&height=55&lines=Flutter+Developer;Backend+%26+API+Engineer;AI+Integration+%26+Automation;SaaS+%26+Enterprise+Solutions;Founder+%26+Lead+Developer+at+Alpha+One"
-    alt="Typing SVG"
-  />
-</a>
+### Software Engineer • AI Builder • SaaS Architect • Founder of Alpha One
 
 <br>
 
 <a href="https://github.com/Abody-Aho">
-  <img src="https://img.shields.io/badge/GitHub-Abody--Aho-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Abody--Aho-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/abdalwaly-samer-ali-mayad-111a42258/">
-  <img src="https://img.shields.io/badge/LinkedIn-Abdalwaly%20Samer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://byabdalwaly.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C897?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-Visit-00C897?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
 <a href="mailto:abdalwalysamer6@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
+<br><br>
+
+<img src="https://img.shields.io/github/followers/Abody-Aho?style=for-the-badge&label=FOLLOWERS&color=00A6FB&labelColor=161B22">
+<img src="https://img.shields.io/github/stars/Abody-Aho?style=for-the-badge&label=PROFILE%20STARS&color=7F5AF0&labelColor=161B22">
+<img src="https://img.shields.io/github/last-commit/Abody-Aho/Abody-Aho?style=for-the-badge&label=LAST%20UPDATE&color=00C897&labelColor=161B22">
 
 </div>
 
@@ -40,19 +34,26 @@
 
 # 👨‍💻 About Me
 
-I'm **Abdalwaly Samer**, an **IT Specialist and Software Engineer** focused on building real-world software products, scalable backend systems, AI-powered applications, and SaaS platforms.
+I'm **Abdalwaly Samer**, an **IT Specialist and Software Engineer** focused on building real-world software, scalable backend systems, AI-powered applications, and SaaS platforms.
 
-I'm also the **Founder & Lead Developer of Alpha One**, where I work with a team to turn business requirements into practical software solutions.
+I'm also the **Founder & Lead Developer of Alpha One**, where I work with a team to transform business requirements into practical digital products.
 
-### 🎯 My Core Focus
+My main focus is not simply writing code.
+
+> **I build systems that solve real problems.**
+
+---
+
+# 🧠 My Core Expertise
 
 <table>
 <tr>
+
 <td width="50%">
 
-### 📱 Mobile Development
+## 📱 Mobile Engineering
 
-Building cross-platform applications with:
+Building scalable cross-platform applications with:
 
 - Flutter
 - Dart
@@ -60,13 +61,13 @@ Building cross-platform applications with:
 - REST APIs
 - Firebase
 - Responsive UI
-- Clean architecture
+- Modern architecture
 
 </td>
 
 <td width="50%">
 
-### ⚙️ Backend Engineering
+## ⚙️ Backend Engineering
 
 Designing APIs and backend systems using:
 
@@ -78,31 +79,33 @@ Designing APIs and backend systems using:
 - PostgreSQL
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
-### 🤖 AI Engineering
+## 🤖 AI Engineering
 
-Integrating AI into applications through:
+Integrating AI into real products through:
 
 - OpenAI APIs
 - Groq API
-- LLM workflows
+- LLM applications
 - AI assistants
+- Intelligent workflows
 - AI automation
-- Intelligent business processes
 
 </td>
 
 <td width="50%">
 
-### ⚡ SaaS & Automation
+## ⚡ SaaS & Automation
 
-Building systems around:
+Building business systems with:
 
-- SaaS platforms
+- SaaS architecture
 - n8n
 - WhatsApp automation
 - API integrations
@@ -110,6 +113,7 @@ Building systems around:
 - Business workflows
 
 </td>
+
 </tr>
 </table>
 
@@ -119,22 +123,25 @@ Building systems around:
 
 <div align="center">
 
-### 🚀 Building Software That Solves Real Problems
+## 🚀 Build • Automate • Scale
 
 </div>
 
-**Alpha One** is the software team I founded to build applications and digital solutions for real-world business needs.
+**Alpha One** is the software team I founded to build practical digital solutions for real-world businesses.
 
 ### What We Build
 
-`📱 Mobile Apps`
-`⚙️ Backend Systems`
-`🌐 SaaS`
-`🤖 AI Solutions`
-`⚡ Automation`
-`🏢 Business Software`
+`📱 Mobile Applications`
 
-> **Our goal is simple: turn ideas and business problems into reliable digital products.**
+`⚙️ Backend Systems`
+
+`🌐 SaaS Platforms`
+
+`🤖 AI Solutions`
+
+`⚡ Business Automation`
+
+`🏢 Enterprise Software`
 
 ---
 
@@ -144,43 +151,51 @@ Building systems around:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,react&theme=dark" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 </div>
-
-<br>
 
 ## ⚙️ Backend & Databases
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,php,laravel,mysql,postgres,firebase,docker&theme=dark" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
 
 </div>
 
-<br>
-
-## 🧰 Tools & Development
+## 🧰 Tools & Infrastructure
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&theme=dark" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
 </div>
-
-<br>
 
 ## 🤖 AI & Automation
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white" />
-
-<img src="https://img.shields.io/badge/n8n-EA4B8B?style=for-the-badge&logo=n8n&logoColor=white" />
-
-<img src="https://img.shields.io/badge/WhatsApp%20Automation-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/n8n-EA4B8B?style=for-the-badge&logo=n8n&logoColor=white">
+<img src="https://img.shields.io/badge/WhatsApp%20Automation-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 
 </div>
 
@@ -188,204 +203,216 @@ Building systems around:
 
 # 🚀 Featured Projects
 
+| Project | Description | Technologies |
+|:---|:---|:---|
+| 🛒 **FlyMarket** | Smart supermarket ecosystem with multi-role access, inventory, orders and delivery workflows. | `Flutter` `Dart` `Backend` |
+| 🌐 **MicroBill** | SaaS platform for managing internet subscriptions, customers and billing. | `.NET` `Node.js` `SaaS` |
+| 🧠 **QuizAI** | AI-powered educational platform generating dynamic questions through LLM technology. | `Groq` `Node.js` |
+| 🤖 **Rocket Assistant** | WhatsApp automation system for orders, customer communication and restaurant workflows. | `Node.js` `Baileys` |
+| ⚡ **Alpha One Apps** | Real-world business applications designed around specific workflows and requirements. | `Flutter` `Backend` `APIs` |
+
+---
+
+# 📊 GitHub Overview
+
+<div align="center">
+
+<a href="https://github.com/Abody-Aho">
+
+<img src="https://img.shields.io/github/followers/Abody-Aho?style=for-the-badge&label=GitHub%20Followers&color=00A6FB">
+
+</a>
+
+<a href="https://github.com/Abody-Aho?tab=repositories">
+
+<img src="https://img.shields.io/github/stars/Abody-Aho?style=for-the-badge&label=Repository%20Stars&color=7F5AF0">
+
+</a>
+
+<a href="https://github.com/Abody-Aho/Abody-Aho">
+
+<img src="https://img.shields.io/github/repo-size/Abody-Aho/Abody-Aho?style=for-the-badge&label=Profile%20Repository&color=00C897">
+
+</a>
+
+<a href="https://github.com/Abody-Aho/Abody-Aho/commits/main/">
+
+<img src="https://img.shields.io/github/last-commit/Abody-Aho/Abody-Aho?style=for-the-badge&label=Latest%20Commit&color=FF9800">
+
+</a>
+
+</div>
+
+---
+
+# 🧩 Engineering Philosophy
+
+<div align="center">
+
+### 🔎 Understand
+
+↓
+
+### 🏗️ Architect
+
+↓
+
+### 💻 Build
+
+↓
+
+### 🧪 Test
+
+↓
+
+### ⚡ Improve
+
+↓
+
+### 🚀 Deploy
+
+↓
+
+### 📈 Scale
+
+</div>
+
+> **Good software isn't about writing more code.  
+> It's about removing complexity and creating value.**
+
+---
+
+# 🌱 Currently Focused On
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-00C897?style=for-the-badge">
+<img src="https://img.shields.io/badge/LLM%20Applications-7F5AF0?style=for-the-badge">
+<img src="https://img.shields.io/badge/SaaS%20Architecture-00A6FB?style=for-the-badge">
+<img src="https://img.shields.io/badge/Backend%20Engineering-FF9800?style=for-the-badge">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Automation-EA4B8B?style=for-the-badge">
+
+</div>
+
+---
+
+# 💡 What I'm Building
+
 <table>
+
 <tr>
-<th>Project</th>
-<th>Description</th>
-<th>Stack</th>
+
+<td width="50%">
+
+### 🤖 AI Products
+
+- AI-powered applications
+- LLM integrations
+- Intelligent assistants
+- Smart workflows
+
+</td>
+
+<td width="50%">
+
+### ⚡ Automation
+
+- WhatsApp systems
+- API automation
+- n8n workflows
+- Business processes
+
+</td>
+
 </tr>
 
 <tr>
-<td>🛒 <b>FlyMarket</b></td>
-<td>
-Smart supermarket ecosystem with multi-role access,
-inventory management, orders and delivery workflows.
-</td>
-<td>
-<code>Flutter</code><br>
-<code>Dart</code><br>
-<code>Backend</code>
-</td>
-</tr>
 
-<tr>
-<td>🌐 <b>MicroBill</b></td>
-<td>
-SaaS platform designed for managing neighborhood
-internet subscriptions, customers and billing.
-</td>
-<td>
-<code>.NET</code><br>
-<code>Node.js</code><br>
-<code>SaaS</code>
-</td>
-</tr>
+<td width="50%">
 
-<tr>
-<td>🧠 <b>QuizAI</b></td>
-<td>
-AI-powered educational platform that generates
-dynamic questions using LLM technology.
-</td>
-<td>
-<code>Groq</code><br>
-<code>Node.js</code>
-</td>
-</tr>
+### 🌐 SaaS
 
-<tr>
-<td>🤖 <b>Rocket Assistant</b></td>
-<td>
-WhatsApp automation system for restaurant orders,
-customer communication and business workflows.
-</td>
-<td>
-<code>Node.js</code><br>
-<code>Baileys</code>
-</td>
-</tr>
+- Subscription platforms
+- Multi-role systems
+- Business dashboards
+- Scalable architectures
 
-<tr>
-<td>⚡ <b>Alpha One Apps</b></td>
-<td>
-Collection of real-world applications built for
-different businesses and operational requirements.
 </td>
-<td>
-<code>Flutter</code><br>
-<code>Backend</code><br>
-<code>APIs</code>
+
+<td width="50%">
+
+### 📱 Mobile
+
+- Flutter applications
+- E-commerce systems
+- Business apps
+- Real-time solutions
+
 </td>
+
 </tr>
 
 </table>
 
 ---
 
-# 🧠 Engineering Philosophy
+# 🎯 What I Believe
 
 <div align="center">
 
-### I don't just build features.
+### Software should solve problems.
 
-# I build systems.
+### Architecture should reduce complexity.
+
+### Automation should save time.
+
+### AI should create real value.
+
+### Products should be built for the real world.
 
 </div>
-Understand the Problem
-        ↓
-Design the Architecture
-        ↓
-Build the Product
-        ↓
-Integrate APIs & AI
-        ↓
-Test & Improve
-        ↓
-Deploy
-        ↓
-Maintain & Scale
 
-Good software isn't about writing more code.
-It's about removing complexity and creating value.
+---
 
-📊 GitHub Analytics
-<div align="center"> <a href="https://github.com/Abody-Aho">
+# 🌍 Let's Connect
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abody-Aho&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=00C897&icon_color=00A6FB" width="49%" />
-
-</a> <a href="https://github.com/Abody-Aho">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abody-Aho&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=00C897" width="49%" />
-
-</a> </div> <br> <div align="center"> <a href="https://github.com/Abody-Aho">
-
-<img src="https://streak-stats.demolab.com/?user=Abody-Aho&theme=tokyonight&hide_border=true&ring=00C897&fire=00A6FB&currStreakLabel=00C897" width="70%" />
-
-</a> </div>
-📈 GitHub Activity
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abody-Aho&bg_color=0D1117&color=FFFFFF&line=00C897&point=00A6FB&area=true&hide_border=true" width="100%" />
+<a href="https://github.com/Abody-Aho">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/abdalwaly-samer-ali-mayad-111a42258/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://byabdalwaly.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-00C897?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<a href="mailto:abdalwalysamer6@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 </div>
-🔥 GitHub Highlights
-<div align="center"> <img src="https://img.shields.io/github/followers/Abody-Aho?style=for-the-badge&label=FOLLOWERS&color=00A6FB&labelColor=161B22" /> <img src="https://img.shields.io/github/stars/Abody-Aho?style=for-the-badge&label=PROFILE%20STARS&color=7F5AF0&labelColor=161B22" /> <img src="https://img.shields.io/github/repo-size/Abody-Aho/Abody-Aho?style=for-the-badge&label=PROFILE%20REPO&color=00C897&labelColor=161B22" /> <img src="https://img.shields.io/github/last-commit/Abody-Aho/Abody-Aho?style=for-the-badge&label=LAST%20UPDATE&color=FF9800&labelColor=161B22" /> </div>
-🌱 Currently Learning & Exploring
-<div align="center"> <img src="https://img.shields.io/badge/Artificial%20Intelligence-00C897?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/LLM%20Applications-7F5AF0?style=for-the-badge" /> <img src="https://img.shields.io/badge/SaaS%20Architecture-00A6FB?style=for-the-badge" /> <img src="https://img.shields.io/badge/Backend%20Engineering-FF9800?style=for-the-badge" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Automation-EA4B8B?style=for-the-badge" /> </div>
-💡 What I'm Building
-<table> <tr> <td width="50%">
-🤖 AI Applications
-AI-powered tools
-LLM integrations
-AI assistants
-Intelligent workflows
-</td> <td width="50%">
-⚡ Automation
-WhatsApp systems
-API automation
-Business workflows
-n8n integrations
-</td> </tr> <tr> <td width="50%">
-🌐 SaaS Products
-Subscription systems
-Multi-role platforms
-Business dashboards
-Scalable architectures
-</td> <td width="50%">
-📱 Mobile Products
-Flutter applications
-E-commerce systems
-Business apps
-Real-time applications
-</td> </tr> </table>
-🎯 Development Approach
-<div align="center"> <table> <tr> <td align="center">
-01
 
-🔎
+---
 
-<b>Understand</b>
-
-</td> <td align="center">→</td> <td align="center">
-02
-
-🏗️
-
-<b>Architect</b>
-
-</td> <td align="center">→</td> <td align="center">
-03
-
-💻
-
-<b>Build</b>
-
-</td> <td align="center">→</td> <td align="center">
-04
-
-🧪
-
-<b>Improve</b>
-
-</td> <td align="center">→</td> <td align="center">
-05
-
-🚀
-
-<b>Scale</b>
-
-</td> </tr> </table> </div>
-🌍 Connect With Me
-<div align="center"> <a href="https://github.com/Abody-Aho"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/abdalwaly-samer-ali-mayad-111a42258/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://byabdalwaly.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-00C897?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> <a href="mailto:abdalwalysamer6@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
-📌 Quick Links
 <div align="center">
 
-</div>
-<div align="center">
-✨ Build smart. Automate more. Scale further.
-Turning ideas into real software, one system at a time.
+## 🚀 Build Smart. Automate More. Scale Further.
+
+### Turning ideas into real software, one system at a time.
+
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:00A6FB,100:00C897&height=120&section=footer" width="100%" />
+<img src="https://img.shields.io/badge/Made%20with-Code-00C897?style=for-the-badge">
+<img src="https://img.shields.io/badge/Powered%20by-Coffee-6F4E37?style=for-the-badge">
+<img src="https://img.shields.io/badge/Based%20in-Yemen-CE1126?style=for-the-badge">
+
+<br><br>
+
+**© Abdalwaly Samer**
 
 </div>
