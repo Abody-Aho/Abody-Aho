@@ -1,23 +1,37 @@
 <div align="center">
 
-<!-- ===================== HEADER ===================== -->
+<!-- ====================================================== -->
+<!-- HEADER                                                  -->
+<!-- ====================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C897,50:00A6FB,100:7F5AF0&height=260&section=header&text=Abdalwaly%20Samer&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20SaaS%20Builder%20%7C%20Founder%20of%20Alpha%20One&descAlignY=56&descAlign=50&descSize=19" width="100%" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:00C897,50:00A6FB,100:7F5AF0&height=260&section=header&text=Abdalwaly%20Samer&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20SaaS%20Builder%20%7C%20Founder%20of%20Alpha%20One&descAlignY=57&descAlign=50&descSize=18"
+  width="100%"
+/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&pause=1000&color=00C897&center=true&vCenter=true&width=850&lines=Flutter+Developer+%F0%9F%93%B1;Backend+%26+API+Engineer+%E2%9A%99%EF%B8%8F;AI+Integration+%26+Automation+%F0%9F%A4%96;SaaS+%26+Enterprise+Solutions+%F0%9F%9A%80;Founder+%26+Lead+Developer+at+Alpha+One+%F0%9F%8F%A2" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com/">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=1000&color=00C897&center=true&vCenter=true&width=850&height=55&lines=Flutter+Developer;Backend+%26+API+Engineer;AI+Integration+%26+Automation;SaaS+%26+Enterprise+Solutions;Founder+%26+Lead+Developer+at+Alpha+One"
+    alt="Typing SVG"
+  />
+</a>
 
 <br>
 
 <a href="https://github.com/Abody-Aho">
-  <img src="https://komarev.com/ghpvc/?username=Abody-Aho&style=for-the-badge&color=00C897&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/badge/GitHub-Abody--Aho-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://github.com/Abody-Aho?tab=followers">
-  <img src="https://img.shields.io/github/followers/Abody-Aho?style=for-the-badge&color=00A6FB&labelColor=161B22&label=FOLLOWERS" />
+<a href="https://www.linkedin.com/in/abdalwaly-samer-ali-mayad-111a42258/">
+  <img src="https://img.shields.io/badge/LinkedIn-Abdalwaly%20Samer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/Abody-Aho?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Abody-Aho?style=for-the-badge&color=7F5AF0&labelColor=161B22&label=STARS" />
+<a href="https://byabdalwaly.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C897?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="mailto:abdalwalysamer6@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -26,37 +40,27 @@
 
 # 👨‍💻 About Me
 
-I'm **Abdalwaly Samer**, an **IT Specialist, Software Engineer, and Founder of Alpha One** focused on building real-world software products, scalable backend systems, AI-powered solutions, and SaaS platforms.
+I'm **Abdalwaly Samer**, an **IT Specialist and Software Engineer** focused on building real-world software products, scalable backend systems, AI-powered applications, and SaaS platforms.
 
-My main focus is not just writing code — it's turning **business problems into reliable digital products**.
+I'm also the **Founder & Lead Developer of Alpha One**, where I work with a team to turn business requirements into practical software solutions.
 
-```text
-Mobile Apps        → Flutter / Dart
-Backend Systems    → .NET / Node.js / PHP / Laravel
-Databases          → MySQL / PostgreSQL / Firebase
-AI & Automation    → OpenAI / Groq / n8n
-Infrastructure     → Docker / Linux / APIs
-Product Building   → SaaS / Business Systems / Enterprise Apps
-```
-
----
-
-## 🚀 What I Do
+### 🎯 My Core Focus
 
 <table>
 <tr>
 <td width="50%">
 
-### 📱 Mobile Engineering
+### 📱 Mobile Development
 
-Building scalable and responsive cross-platform applications using:
+Building cross-platform applications with:
 
-* Flutter
-* Dart
-* GetX
-* REST APIs
-* Firebase
-* Modern UI architecture
+- Flutter
+- Dart
+- GetX
+- REST APIs
+- Firebase
+- Responsive UI
+- Clean architecture
 
 </td>
 
@@ -66,12 +70,12 @@ Building scalable and responsive cross-platform applications using:
 
 Designing APIs and backend systems using:
 
-* .NET
-* Node.js
-* PHP
-* Laravel
-* MySQL
-* PostgreSQL
+- .NET
+- Node.js
+- PHP
+- Laravel
+- MySQL
+- PostgreSQL
 
 </td>
 </tr>
@@ -81,27 +85,29 @@ Designing APIs and backend systems using:
 
 ### 🤖 AI Engineering
 
-Integrating AI into real applications through:
+Integrating AI into applications through:
 
-* OpenAI APIs
-* Groq API
-* LLM-powered workflows
-* AI assistants
-* Intelligent automation
+- OpenAI APIs
+- Groq API
+- LLM workflows
+- AI assistants
+- AI automation
+- Intelligent business processes
 
 </td>
 
 <td width="50%">
 
-### 🧠 SaaS & Automation
+### ⚡ SaaS & Automation
 
-Building systems that automate repetitive business processes using:
+Building systems around:
 
-* n8n
-* WhatsApp automation
-* API integrations
-* Multi-role systems
-* Business workflows
+- SaaS platforms
+- n8n
+- WhatsApp automation
+- API integrations
+- Multi-role systems
+- Business workflows
 
 </td>
 </tr>
@@ -113,83 +119,163 @@ Building systems that automate repetitive business processes using:
 
 <div align="center">
 
-### Building Software. Solving Problems. Creating Impact.
+### 🚀 Building Software That Solves Real Problems
 
 </div>
 
-**Alpha One** is the software team I founded to build real-world applications and digital solutions for businesses.
+**Alpha One** is the software team I founded to build applications and digital solutions for real-world business needs.
 
-We focus on:
+### What We Build
 
-`Product Development` • `Business Automation` • `Mobile Apps` • `Backend Systems` • `AI Solutions` • `SaaS`
+`📱 Mobile Apps`
+`⚙️ Backend Systems`
+`🌐 SaaS`
+`🤖 AI Solutions`
+`⚡ Automation`
+`🏢 Business Software`
 
-> **Our goal:** Turn ideas into products that actually work in the real world.
+> **Our goal is simple: turn ideas and business problems into reliable digital products.**
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Technology Stack
 
 ## 📱 Mobile & Frontend
 
-<p>
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,react&theme=dark" />
-</p>
+
+</div>
+
+<br>
 
 ## ⚙️ Backend & Databases
 
-<p>
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=dotnet,nodejs,php,laravel,mysql,postgres,firebase,docker&theme=dark" />
-</p>
 
-## 🧰 Tools & Dev Environment
+</div>
 
-<p>
+<br>
+
+## 🧰 Tools & Development
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&theme=dark" />
-</p>
+
+</div>
+
+<br>
 
 ## 🤖 AI & Automation
 
-<p>
+<div align="center">
+
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white" />
+
 <img src="https://img.shields.io/badge/n8n-EA4B8B?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/WhatsApp_Automation-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</p>
+
+<img src="https://img.shields.io/badge/WhatsApp%20Automation-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Stack</th>
+</tr>
 
-|         Project         | Description                                                                                                        | Technologies               |
-| :---------------------: | :----------------------------------------------------------------------------------------------------------------- | :------------------------- |
-|     🛒 **FlyMarket**    | Smart supermarket ecosystem with multi-role access, inventory, orders, delivery management and business workflows. | `Flutter` `Dart` `Backend` |
-|     🌐 **MicroBill**    | SaaS platform for managing neighborhood internet subscriptions, billing and customer accounts.                     | `.NET` `Node.js` `SaaS`    |
-|      🧠 **QuizAI**      | AI-powered educational platform capable of generating dynamic questions using LLMs.                                | `Groq API` `Node.js`       |
-| 🤖 **Rocket Assistant** | WhatsApp automation system for order processing, customer interaction and restaurant workflows.                    | `Node.js` `Baileys`        |
-|   ⚡ **Alpha One Apps**  | Collection of real-world applications developed for different business requirements and workflows.                 | `Flutter` `Backend` `APIs` |
+<tr>
+<td>🛒 <b>FlyMarket</b></td>
+<td>
+Smart supermarket ecosystem with multi-role access,
+inventory management, orders and delivery workflows.
+</td>
+<td>
+<code>Flutter</code><br>
+<code>Dart</code><br>
+<code>Backend</code>
+</td>
+</tr>
 
-</div>
+<tr>
+<td>🌐 <b>MicroBill</b></td>
+<td>
+SaaS platform designed for managing neighborhood
+internet subscriptions, customers and billing.
+</td>
+<td>
+<code>.NET</code><br>
+<code>Node.js</code><br>
+<code>SaaS</code>
+</td>
+</tr>
+
+<tr>
+<td>🧠 <b>QuizAI</b></td>
+<td>
+AI-powered educational platform that generates
+dynamic questions using LLM technology.
+</td>
+<td>
+<code>Groq</code><br>
+<code>Node.js</code>
+</td>
+</tr>
+
+<tr>
+<td>🤖 <b>Rocket Assistant</b></td>
+<td>
+WhatsApp automation system for restaurant orders,
+customer communication and business workflows.
+</td>
+<td>
+<code>Node.js</code><br>
+<code>Baileys</code>
+</td>
+</tr>
+
+<tr>
+<td>⚡ <b>Alpha One Apps</b></td>
+<td>
+Collection of real-world applications built for
+different businesses and operational requirements.
+</td>
+<td>
+<code>Flutter</code><br>
+<code>Backend</code><br>
+<code>APIs</code>
+</td>
+</tr>
+
+</table>
 
 ---
 
-# 🧩 Engineering Philosophy
+# 🧠 Engineering Philosophy
 
 <div align="center">
 
 ### I don't just build features.
 
-### I build systems.
+# I build systems.
 
 </div>
-
-```text
-Understand the problem
+Understand the Problem
         ↓
-Design the architecture
+Design the Architecture
         ↓
-Build the product
+Build the Product
         ↓
 Integrate APIs & AI
         ↓
@@ -198,137 +284,108 @@ Test & Improve
 Deploy
         ↓
 Maintain & Scale
-```
 
-> **Good software is not only about how much code you write.
-> It's about how much complexity you remove.**
+Good software isn't about writing more code.
+It's about removing complexity and creating value.
 
----
+📊 GitHub Analytics
+<div align="center"> <a href="https://github.com/Abody-Aho">
 
-# 📊 GitHub Analytics
+<img src="https://github-readme-stats.vercel.app/api?username=Abody-Aho&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=00C897&icon_color=00A6FB" width="49%" />
 
+</a> <a href="https://github.com/Abody-Aho">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abody-Aho&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=00C897" width="49%" />
+
+</a> </div> <br> <div align="center"> <a href="https://github.com/Abody-Aho">
+
+<img src="https://streak-stats.demolab.com/?user=Abody-Aho&theme=tokyonight&hide_border=true&ring=00C897&fire=00A6FB&currStreakLabel=00C897" width="70%" />
+
+</a> </div>
+📈 GitHub Activity
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abody-Aho&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&title_color=00C897&icon_color=00A6FB&text_color=FFFFFF" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abody-Aho&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=00C897&text_color=FFFFFF" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abody-Aho&bg_color=0D1117&color=FFFFFF&line=00C897&point=00A6FB&area=true&hide_border=true" width="100%" />
 
 </div>
+🔥 GitHub Highlights
+<div align="center"> <img src="https://img.shields.io/github/followers/Abody-Aho?style=for-the-badge&label=FOLLOWERS&color=00A6FB&labelColor=161B22" /> <img src="https://img.shields.io/github/stars/Abody-Aho?style=for-the-badge&label=PROFILE%20STARS&color=7F5AF0&labelColor=161B22" /> <img src="https://img.shields.io/github/repo-size/Abody-Aho/Abody-Aho?style=for-the-badge&label=PROFILE%20REPO&color=00C897&labelColor=161B22" /> <img src="https://img.shields.io/github/last-commit/Abody-Aho/Abody-Aho?style=for-the-badge&label=LAST%20UPDATE&color=FF9800&labelColor=161B22" /> </div>
+🌱 Currently Learning & Exploring
+<div align="center"> <img src="https://img.shields.io/badge/Artificial%20Intelligence-00C897?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/LLM%20Applications-7F5AF0?style=for-the-badge" /> <img src="https://img.shields.io/badge/SaaS%20Architecture-00A6FB?style=for-the-badge" /> <img src="https://img.shields.io/badge/Backend%20Engineering-FF9800?style=for-the-badge" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Automation-EA4B8B?style=for-the-badge" /> </div>
+💡 What I'm Building
+<table> <tr> <td width="50%">
+🤖 AI Applications
+AI-powered tools
+LLM integrations
+AI assistants
+Intelligent workflows
+</td> <td width="50%">
+⚡ Automation
+WhatsApp systems
+API automation
+Business workflows
+n8n integrations
+</td> </tr> <tr> <td width="50%">
+🌐 SaaS Products
+Subscription systems
+Multi-role platforms
+Business dashboards
+Scalable architectures
+</td> <td width="50%">
+📱 Mobile Products
+Flutter applications
+E-commerce systems
+Business apps
+Real-time applications
+</td> </tr> </table>
+🎯 Development Approach
+<div align="center"> <table> <tr> <td align="center">
+01
 
+🔎
+
+<b>Understand</b>
+
+</td> <td align="center">→</td> <td align="center">
+02
+
+🏗️
+
+<b>Architect</b>
+
+</td> <td align="center">→</td> <td align="center">
+03
+
+💻
+
+<b>Build</b>
+
+</td> <td align="center">→</td> <td align="center">
+04
+
+🧪
+
+<b>Improve</b>
+
+</td> <td align="center">→</td> <td align="center">
+05
+
+🚀
+
+<b>Scale</b>
+
+</td> </tr> </table> </div>
+🌍 Connect With Me
+<div align="center"> <a href="https://github.com/Abody-Aho"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/abdalwaly-samer-ali-mayad-111a42258/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://byabdalwaly.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-00C897?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> <a href="mailto:abdalwalysamer6@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
+📌 Quick Links
+<div align="center">
+
+</div>
+<div align="center">
+✨ Build smart. Automate more. Scale further.
+Turning ideas into real software, one system at a time.
 <br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Abody-Aho&theme=tokyonight&hide_border=true&ring=00C897&fire=00A6FB&currStreakLabel=00C897" width="70%" />
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abody-Aho&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="90%" />
-
-</div>
-
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<p>
-
-<a href="https://github.com/Abody-Aho">
-
-<img src="https://raw.githubusercontent.com/Abody-Aho/Abody-Aho/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</a>
-
-</p>
-
-</div>
-
----
-
-# ⏱️ Coding Activity
-
-<div align="center">
-
-<a href="https://wakatime.com/@Abody-Aho">
-<img src="https://wakatime.com/badge/user/b9e2caa8-adfc-42ce-a92b-6fb2327274ef.svg" alt="WakaTime" />
-</a>
-
-<br><br>
-
-<a href="https://wakatime.com/@Abody-Aho">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Abody-Aho&theme=tokyonight&hide_border=true&title_color=00C897" width="70%" />
-</a>
-
-</div>
-
----
-
-# 🌍 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/abdalwaly-samer-ali-mayad-111a42258/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://byabdalwaly.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-00C897?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-<a href="mailto:abdalwalysamer6@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/Abody-Aho">
-<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-# 💡 Currently Focused On
-
-<div align="center">
-
-`AI Applications`  • 
-`SaaS Architecture`  • 
-`Backend Engineering`  • 
-`Flutter`  • 
-`Automation`  • 
-`Enterprise Solutions`
-
-</div>
-
----
-
-# 📈 What I'm Building
-
-```text
-🤖 AI-powered applications
-⚡ Business automation systems
-🌐 Scalable SaaS platforms
-📱 High-performance Flutter applications
-🔌 API-driven architectures
-🏢 Enterprise software solutions
-```
-
----
-
-<div align="center">
-
-### ✨ Build smart. Automate more. Scale further.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:00A6FB,100:00C897&height=130&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:00A6FB,100:00C897&height=120&section=footer" width="100%" />
 
 </div>
